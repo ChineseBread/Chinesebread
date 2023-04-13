@@ -13,4 +13,7 @@
 * 商家视觉升级推进
 #### 美团（营销流量） 待更新
 
+![Chinesebread](https://github-readme-stats.vercel.app/api?username=Chinesebread)
+
 ![forza horizon](https://user-images.githubusercontent.com/76460624/231668237-3ba065ea-d357-4732-87a4-12e55757a668.jpg)
+
