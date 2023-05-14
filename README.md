@@ -3,7 +3,7 @@
 #### If you have any questions about my source code,plz contact me through [bilibili](https://space.bilibili.com/47733318) or make an issue for the repository
 #### vx:17366201379
 ---
-芜湖🥂~ 你好，叫我张老三或者Chinesebread都行！前端摸鱼开发者，我的前端项目均在b站上有项目介绍视频，如有任何问题可私信或者vx联系，打工人打工魂！！🚑
+🥂~ 你好，叫我张老三或者Chinesebread都行！前端摸鱼开发者，我的前端项目均在b站上有项目介绍视频，如有任何问题可私信或者vx联系，打工人打工魂！！🚑
 ### 我的实习经历
 #### 小红书（电商）
 * 商家履约
