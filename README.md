@@ -10,7 +10,7 @@
 * 营销链路预演及场域
 * Infra Reds-h5 共建
 * 商家视觉升级推进
-#### 美团（营销流量）
+#### 美团（酒旅）
 * 全平台酒旅民宿小程序研发，以微信和美小为主
 
 ![Chinesebread](https://github-readme-stats.vercel.app/api?username=Chinesebread)
