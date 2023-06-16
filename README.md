@@ -11,9 +11,8 @@
 * Infra Reds-h5 共建
 * 商家视觉升级推进
 #### 美团（酒旅）
-* 全平台酒旅民宿小程序研发，以微信和美小为主
-
-![Chinesebread](https://github-readme-stats.vercel.app/api?username=Chinesebread)
+* 全平台酒旅小程序研发，以微信和美小为主
+* nlp搜索标注平台开发
 
 ![forza horizon](https://user-images.githubusercontent.com/76460624/231668237-3ba065ea-d357-4732-87a4-12e55757a668.jpg)
 
