@@ -13,6 +13,8 @@
 #### 美团（酒旅）
 * 全平台酒旅小程序研发，以微信和美小为主
 * nlp搜索标注平台开发
+* 住宿B端低代码
+* 到店paas平台serverless函数开发
 
 ![forza horizon](https://user-images.githubusercontent.com/76460624/231668237-3ba065ea-d357-4732-87a4-12e55757a668.jpg)
 
